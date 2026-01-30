@@ -1,0 +1,6 @@
+@Display_Invoice_fixed_HostAddress = http://localhost:5144
+
+GET {{Display_Invoice_fixed_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+wwwroot\index.html
+wwwroot\script.js
+wwwroot\styles.css
+C:\Users\Ajay Mehra\source\repos\Display_Invoice_fixed\Display_Invoice_fixed\wwwroot\index.html
+C:\Users\Ajay Mehra\source\repos\Display_Invoice_fixed\Display_Invoice_fixed\wwwroot\script.js
+C:\Users\Ajay Mehra\source\repos\Display_Invoice_fixed\Display_Invoice_fixed\wwwroot\styles.css
