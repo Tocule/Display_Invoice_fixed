@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Display_Invoice_fixed/.vs
+/Display_Invoice_fixed/bin/Debug/net10.0
